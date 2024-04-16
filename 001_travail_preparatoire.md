@@ -2,7 +2,7 @@
 
 ## Travail préparatoire
 
-### Récupérer la dernière image de nginx en exécutant les commandes suivantes
+### Récupérer la dernière image de apache en exécutant les commandes suivantes
 
 * Récupérer l'image
 
