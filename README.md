@@ -6,7 +6,7 @@ Lors de cette épreuve, nous allons valider les compétences suivantes:
 
 * commande de base du client Docker
 * écriture simple d'un fichier docker
-* construction (build) et lancement (run) d'un contener
+* construction (build) et lancement (run) d'un conteneur
 * redirection de port (port forwarding) entre votre conteneur et votre environnement local.
 
 ## Moyens à disposition
@@ -35,7 +35,7 @@ Lors de cette épreuve, nous allons valider les compétences suivantes:
 </html> 
 ```
 
-* Le répertoire dédié à Apache pour afficher du contenu html est le suivant:
+* Le répertoire dédié à Apache (dans le conteneur) pour afficher du contenu html est le suivant:
 ```bash
 /usr/local/apache2/htdocs
 ```
