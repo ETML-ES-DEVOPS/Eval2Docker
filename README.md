@@ -64,7 +64,7 @@ FROM httpd:alpine
 | Tag de l'image | sig2-web-site     | 1pt |
 | Conteneur | N'expose que le ou les ports nécessaires  | 1pt |
 | Hôte | Apache est exposé sur le port local 8080 de votre machine | 1pt |
-| Hôte | La page Nginx d'accueil s'affiche | 1pt |
+| Hôte | La page Apache d'accueil s'affiche | 1pt |
 | Hôte | Le site html sig.html s'affiche  | 1pt |
 
 ### Livrable
